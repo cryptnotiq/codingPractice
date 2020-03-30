@@ -1,0 +1,8 @@
+1. Need to add in cookies to save names in browser. So every time page refreshes, it does not ask
+them to enter names.
+
+2. Add button to roll again, which auto reloads page.
+
+3. input dice rolling animations instead of static images.
+
+4. input sound when rolling.
